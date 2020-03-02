@@ -1,0 +1,23 @@
+{
+  "name": "companion-sample",
+  "version": "1.0.0",
+  "description": "Nodejs project running companion standalone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "companion"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifedapoolarewaju/companion-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifedapoolarewaju/companion-sample/issues"
+  },
+  "homepage": "https://github.com/ifedapoolarewaju/companion-sample#readme",
+  "dependencies": {
+    "@uppy/companion": "^1.9.5"
+  }
+}
