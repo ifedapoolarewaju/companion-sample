@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ifedapoolarewaju/companion-sample#readme",
   "dependencies": {
-    "@uppy/companion": "^1.9.5"
+    "@uppy/companion": "^3.3.1"
   }
 }
